@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\bin\Debug\net8.0\MultiDictionary.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\bin\Debug\net8.0\MultiDictionary.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\bin\Debug\net8.0\MultiDictionary.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\bin\Debug\net8.0\MultiDictionary.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\bin\Debug\net8.0\MultiDictionary.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\refint\MultiDictionary.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\MultiDictionary.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\MultiDictionary\obj\Debug\net8.0\ref\MultiDictionary.dll
