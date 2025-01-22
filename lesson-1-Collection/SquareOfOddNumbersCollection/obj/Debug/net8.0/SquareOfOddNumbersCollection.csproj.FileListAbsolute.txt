@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\bin\Debug\net8.0\SquareOfOddNumbersCollection.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\bin\Debug\net8.0\SquareOfOddNumbersCollection.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\bin\Debug\net8.0\SquareOfOddNumbersCollection.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\bin\Debug\net8.0\SquareOfOddNumbersCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\bin\Debug\net8.0\SquareOfOddNumbersCollection.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\refint\SquareOfOddNumbersCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\SquareOfOddNumbersCollection.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-1-Collection\SquareOfOddNumbersCollection\obj\Debug\net8.0\ref\SquareOfOddNumbersCollection.dll
