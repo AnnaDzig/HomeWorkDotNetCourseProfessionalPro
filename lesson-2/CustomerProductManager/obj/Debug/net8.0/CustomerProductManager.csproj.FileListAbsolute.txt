@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\bin\Debug\net8.0\CustomerProductManager.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\bin\Debug\net8.0\CustomerProductManager.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\bin\Debug\net8.0\CustomerProductManager.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\bin\Debug\net8.0\CustomerProductManager.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\bin\Debug\net8.0\CustomerProductManager.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\refint\CustomerProductManager.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\CustomerProductManager.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductManager\obj\Debug\net8.0\ref\CustomerProductManager.dll
