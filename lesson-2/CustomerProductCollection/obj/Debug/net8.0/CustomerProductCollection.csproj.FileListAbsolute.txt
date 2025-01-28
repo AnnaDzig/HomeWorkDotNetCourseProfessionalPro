@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\bin\Debug\net8.0\CustomerProductCollection.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\bin\Debug\net8.0\CustomerProductCollection.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\bin\Debug\net8.0\CustomerProductCollection.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\bin\Debug\net8.0\CustomerProductCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\bin\Debug\net8.0\CustomerProductCollection.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\refint\CustomerProductCollection.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\CustomerProductCollection.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-2\CustomerProductCollection\obj\Debug\net8.0\ref\CustomerProductCollection.dll
