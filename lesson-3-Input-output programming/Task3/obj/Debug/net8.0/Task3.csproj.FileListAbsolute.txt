@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\bin\Debug\net8.0\Task3.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\bin\Debug\net8.0\Task3.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\bin\Debug\net8.0\Task3.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\Task3\obj\Debug\net8.0\ref\Task3.dll
