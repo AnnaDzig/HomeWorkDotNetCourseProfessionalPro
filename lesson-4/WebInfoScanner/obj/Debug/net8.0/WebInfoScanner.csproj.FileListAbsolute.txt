@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\bin\Debug\net8.0\WebInfoScanner.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\bin\Debug\net8.0\WebInfoScanner.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\bin\Debug\net8.0\WebInfoScanner.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\bin\Debug\net8.0\WebInfoScanner.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\bin\Debug\net8.0\WebInfoScanner.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\refint\WebInfoScanner.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\WebInfoScanner.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\New folder\WebInfoScanner\obj\Debug\net8.0\ref\WebInfoScanner.dll
