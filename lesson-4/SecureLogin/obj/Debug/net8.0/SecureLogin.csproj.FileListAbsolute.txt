@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\bin\Debug\net8.0\SecureLogin.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\bin\Debug\net8.0\SecureLogin.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\bin\Debug\net8.0\SecureLogin.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\bin\Debug\net8.0\SecureLogin.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\bin\Debug\net8.0\SecureLogin.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\refint\SecureLogin.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\SecureLogin.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\SecureLogin\obj\Debug\net8.0\ref\SecureLogin.dll
