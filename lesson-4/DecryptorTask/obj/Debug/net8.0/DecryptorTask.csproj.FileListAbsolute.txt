@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\bin\Debug\net8.0\DecryptorTask.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\bin\Debug\net8.0\DecryptorTask.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\bin\Debug\net8.0\DecryptorTask.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\bin\Debug\net8.0\DecryptorTask.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\bin\Debug\net8.0\DecryptorTask.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\refint\DecryptorTask.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\DecryptorTask.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\DecryptorTask\obj\Debug\net8.0\ref\DecryptorTask.dll

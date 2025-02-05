@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\bin\Debug\net8.0\ReceiptGenerator.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\bin\Debug\net8.0\ReceiptGenerator.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\bin\Debug\net8.0\ReceiptGenerator.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\bin\Debug\net8.0\ReceiptGenerator.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\bin\Debug\net8.0\ReceiptGenerator.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\refint\ReceiptGenerator.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ReceiptGenerator.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-4\ReceiptGenerator\obj\Debug\net8.0\ref\ReceiptGenerator.dll
