@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\bin\Debug\net8.0\TempConverterReflector.exe
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\bin\Debug\net8.0\TempConverterReflector.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\bin\Debug\net8.0\TempConverterReflector.runtimeconfig.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\bin\Debug\net8.0\TempConverterReflector.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\bin\Debug\net8.0\TempConverterReflector.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\refint\TempConverterReflector.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\TempConverterReflector.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TempConverterReflector\obj\Debug\net8.0\ref\TempConverterReflector.dll
