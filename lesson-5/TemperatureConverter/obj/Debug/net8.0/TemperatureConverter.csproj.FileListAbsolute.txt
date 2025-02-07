@@ -1,0 +1,12 @@
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.deps.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.sourcelink.json
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\refint\TemperatureConverter.dll
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.pdb
+D:\DotNetCourse\HomeWorkDotNetCourseProfessionalPro\lesson-5\TemperatureConverter\obj\Debug\net8.0\ref\TemperatureConverter.dll
